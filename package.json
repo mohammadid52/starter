@@ -8,8 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-redux": "^7.2.2",
+    "react-redux-firebase": "^3.7.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
-    "react-router-dom": "^5.2.0"
+    "redux": "^4.0.5",
+    "redux-firestore": "^0.14.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +37,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.10.0",
+    "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.3.1",
